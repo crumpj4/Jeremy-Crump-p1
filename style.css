@@ -1,0 +1,37 @@
+main{
+    margin: 0 auto;
+    width: 90%; 
+}
+
+body{
+    margin: 0;
+    background-color: whitesmoke;
+    font-family: 'Space Mono', sans-serif;
+}
+
+h1{
+    width: 4em;
+    background-color: #ff4136;;
+}
+
+aside li{
+    list-style: none;
+    color: #ff4136;
+}
+
+article{
+    
+}
+article a :hover{
+    opacity: 75%;
+    transition: 150ms ease-in-out;
+}
+
+article img {
+    width: 800px;
+}
+
+footer{
+    font-size: .8em;
+    padding-left: 5em;
+}
